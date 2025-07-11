@@ -1,0 +1,2 @@
+# fqreg
+Quantile regression for non-negative data with a mass-point at zero and an upper bound Use fqreg With STATA 19
