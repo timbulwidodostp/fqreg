@@ -1,6 +1,8 @@
 # fqreg
 Quantile regression for non-negative data with a mass-point at zero and an upper bound Use fqreg With STATA 19
 
+https://www.youtube.com/watch?v=eYAvu4sJHsQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
